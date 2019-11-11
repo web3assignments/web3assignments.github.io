@@ -1,7 +1,7 @@
 # web3assignments.github.io
 Assignments for web3 learning
 
-![Logo](https://web3assignments.github.io/w3a_logo.png)
+![Logo](w3a_logo.png)
 
 This site (github) contains the assignments and is related to [web3examples].
 
