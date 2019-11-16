@@ -6,7 +6,7 @@ Assignments for web3 learning
 This site (github) contains the assignments and is related to:
 * [web3examples]
 * [BC_Minor]
-* The results of the assignements will be put here: [web3assignments]
+* The results of the assignments will be put here: [web3assignments]
 * Also see status here: [bettercodehub]
 
 [web3examples]: https://web3examples.com
