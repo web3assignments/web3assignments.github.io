@@ -5,7 +5,7 @@ Assignments for web3 learning
 
 This site (github) contains the assignments and is related to:
 * [web3examples]
-* [BC_Minor]
+* THUASMinorBlockchain_20192020B_IT: [BC_Minor]
 * The results of the assignments will be put here: [web3assignments]
 * Also see status here: [bettercodehub]
 
